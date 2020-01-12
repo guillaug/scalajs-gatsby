@@ -1,0 +1,17 @@
+.DS_Store
+
+yarn.lock
+package-lock.json
+
+
+gatsby/.cache
+gatsby/node_modules
+gatsby/public
+gatsby/src/scalajs-gatsby-fastopt.js
+
+
+scalajs/.idea/
+scalajs/target/
+
+scalajs/project/target/
+scalajs/project/project/
