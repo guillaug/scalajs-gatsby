@@ -47,6 +47,9 @@ const IndexPage = () =>
     </Layout>
 ```
 
+```MyComponent``` is written in ```scala``` using ```slinky```.
+It is a React Component that Gatsby can render.
+
 ## Issues
 
 _Reloading takes time : not less than 10+ seconds betweek scala files edit and gatbsy site update_
